@@ -11,8 +11,7 @@
 - **Tools**: Git, GitHub, RMarkdown
 
 ## 🚀 Highlighted Projects
-- 🧬 [COVID-19 Model](https://github.com/Andres-RG/modelo_matematico_covid)  
-- 📊 [Alpha diversity study](https://github.com/tuusuario/proyecto2)
+- 🧬 [COVID-19 Model](https://github.com/Andres-RG/modelo_matematico_covid) 
 
 ## 🎉 Fun Facts
 
