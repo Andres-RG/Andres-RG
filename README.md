@@ -24,8 +24,6 @@
 ## 📫 Contact Me
 [Email](mailto:lrojas26@alumnos.uaq.mx)
 
-Thanks for visiting my profile! 😊
-
 <div align="left">
   <a href="https://www.linkedin.com/in/luis-andres-rojas-garcia-057a70236/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -36,10 +34,9 @@ Thanks for visiting my profile! 😊
   <a href="https://biologacuanti-ofw2485.slack.com/team/U02D7172RK7" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   </a>
-  <a href="lrojas26@alumnos.uaq.mx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
+
+Thanks for visiting my profile! 😊
 
 ###
 
