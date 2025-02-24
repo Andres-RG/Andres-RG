@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello! 👋 I'm Luis Andrés
 
-<!--
-**Andres-RG/Andres-RG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 Academic & Research Background
+🎓 Bachelor's degree in Microbiology  
+🎓 Graduate student in the Master's program in Biological Sciences at the Faculty of Natural Sciences, UAQ  
+💻 I'm currently working on Early Warning Signals, sequencing data analysis, and mathematical models
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: R, Bash, Python  
+- **Analysis**: Co-abundance networks, microbial diversity, Early Warning Signals, mathematical models
+- **Tools**: Git, GitHub, RMarkdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Highlighted Projects
+- 🧬 [COVID-19 Model](https://github.com/Andres-RG/modelo_matematico_covid)  
+- 📊 [Alpha diversity study](https://github.com/tuusuario/proyecto2)
+
+## 🎉 Fun Facts
+
+- ⚽ Real Madrid
+- 🎮 I enjoy playing video games in my free time  
+- ☕ I can't start my day without coffee  
+- 🦇 I love everything gothic and dark aesthetics  
+- 🌍 Always looking for new places to explore 
+
+Thanks for visiting my profile! 😊
