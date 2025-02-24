@@ -42,3 +42,7 @@ Thanks for visiting my profile! 😊
 
 ###
 
+![Snake animation](https://github.com/Andres-RG/Andres-RG/blob/output/snake.svg)
+
+
+
