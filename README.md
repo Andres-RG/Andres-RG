@@ -19,6 +19,9 @@
 - 🎮 I enjoy playing video games in my free time  
 - ☕ I can't start my day without coffee  
 - 🦇 I love everything gothic and dark aesthetics  
-- 🌍 Always looking for new places to explore 
+- 🌍 Always looking for new places to explore
+
+## 📫 Contact Me
+[Email](mailto:lrojas26@alumnos.uaq.mx)
 
 Thanks for visiting my profile! 😊
