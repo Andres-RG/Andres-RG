@@ -42,7 +42,9 @@ Thanks for visiting my profile! 😊
 
 ###
 
-<img src="https://raw.githubusercontent.com/Andres-RG/Andres-RG/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -52,6 +54,5 @@ Thanks for visiting my profile! 😊
 </div>
 
 ###
-
 
 
