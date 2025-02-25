@@ -8,7 +8,13 @@
 ## 🔧 Technologies & Tools
 - **Languages**: R, Bash, Python  
 - **Analysis**: Co-abundance networks, microbial diversity, Early Warning Signals, mathematical models
-- **Tools**: Git, GitHub, RMarkdown
+- **Tools**: Git, GitHub, RMarkdown.
+
+## 📊 Languages Used
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-RG&layout=compact&langs_count=5&theme=dracula&hide=html" alt="Top Languages" />
+</div>
 
 ## 🚀 Highlighted Projects
 - 🧬 [COVID-19 Model](https://github.com/Andres-RG/modelo_matematico_covid) 
@@ -45,13 +51,6 @@ Thanks for visiting my profile! 😊
 ###
 
 ![Snake animation](https://github.com/Andres-RG/Andres-RG/blob/output/snake.svg)
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andres-RG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andres-RG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
