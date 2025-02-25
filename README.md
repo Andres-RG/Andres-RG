@@ -12,9 +12,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andres-RG&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-RG&layout=compact&langs_count=5&theme=dracula&hide=html&hide_border=true" height="180" width="400" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andres-RG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andres-RG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ## 🚀 Highlighted Projects
@@ -52,6 +52,10 @@ Thanks for visiting my profile! 😊
 ###
 
 ![Snake animation](https://github.com/Andres-RG/Andres-RG/blob/output/snake.svg)
+
+###
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
