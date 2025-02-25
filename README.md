@@ -22,9 +22,11 @@
 - 🌍 Always looking for new places to explore
 
 ## 📫 Contact Me
-[Email](mailto:lrojas26@alumnos.uaq.mx)
 
 <div align="left">
+  <a href="mailto:lrojas26@alumnos.uaq.mx">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/luis-andres-rojas-garcia-057a70236/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
