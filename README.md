@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andres-RG&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-RG&layout=compact&langs_count=5&theme=dracula&hide=html&hide_border=true" height="180" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andres-RG&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="180" width="500" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-RG&layout=compact&langs_count=5&theme=dracula&hide=html&hide_border=true" height="180" width="500" alt="Top Languages" />
 </div>
 
 ## 🚀 Highlighted Projects
