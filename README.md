@@ -75,7 +75,11 @@ Thanks for visiting my profile! 😊
 
 ###
 
-![Snake animation](https://github.com/Andres-RG/Andres-RG/blob/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Andres-RG/Andres-RG/blob/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Andres-RG/Andres-RG/blob/output/snake.svg">
+  <img alt="Snake animation" src="https://github.com/Andres-RG/Andres-RG/blob/output/snake.svg">
+</picture>
 
 ###
 
